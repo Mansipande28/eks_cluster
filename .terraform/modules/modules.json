@@ -1,0 +1,1 @@
+{"Modules":[{"Key":"aws_vpc","Source":"git::https://github.com/Mansipande28/vpc.git","Dir":".terraform/modules/aws_vpc"},{"Key":"aws_vpc.aws_vpc","Source":"./modules/aws_vpc","Dir":".terraform/modules/aws_vpc/modules/aws_vpc"},{"Key":"","Source":"","Dir":"."}]}
