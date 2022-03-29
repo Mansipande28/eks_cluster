@@ -1,7 +1,7 @@
 module "aws_vpc" {
   source          = "github.com/Mansipande28/vpc.git"
-  networking      = var.networking
-  security_groups = var.security_groups
+  #networking      = var.networking
+  #security_groups = var.security_groups
 }
 
 # EKS Cluster
